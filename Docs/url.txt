@@ -1,0 +1,65 @@
+http://www.tutorialspoint.com/design_pattern/
+
+https://www.udemy.com/java-design-patterns-tutorial/
+
+
+http://www.oodesign.com/
+
+#Program to an interface:
+http://www.artima.com/lejava/articles/designprinciples.html
+
+#MockTests
+http://www.whizlabs.com/examprep/mod/quiz/review.php?attempt=257695&showall=true
+
+
+#Design Pattern Videos
+http://www.newthinktank.com/videos/design-patterns-tutorial/
+
+#to download you tube
+http://keepvid.com
+
+--------------------------------------------------------------------------------------------------
+#Spring
+https://github.com/spring-projects/spring-integration-samples
+https://github.com/spring-projects/spring-integration-samples.git
+
+#Spring-Integration Error handling
+http://xpadro.blogspot.co.uk/2013/11/how-error-handling-works-in-spring.html
+
+#Issue with sending binary data as JMS messages using Spring Integration 
+http://forum.spring.io/forum/spring-projects/integration/jms/114352-issue-with-sending-binary-data-as-jms-messages-using-spring-integration
+
+#Spring Integration and IBM MQ
+http://stackoverflow.com/questions/17988872/could-not-fetch-messages-from-webpshere-mq-sometimes-even-though-the-application
+
+#Spring and Autowiring of Generic Types
+http://www.jayway.com/2013/11/03/spring-and-autowiring-of-generic-types/
+
+#Spring 3 Part 5: Factory Beans 
+http://ojitha.blogspot.co.uk/2013/03/spring-3-part-5-factory-beans.html
+--------------------------------------------------------------------------------------------------
+#xa-transactions-using-spring
+http://stackoverflow.com/questions/7461513/spring-jms-2-phase-commit-in-java-se
+http://www.javaworld.com/article/2077714/java-web-development/xa-transactions-using-spring.html
+http://spring.io/blog/2011/08/15/configuring-spring-and-jta-without-full-java-ee/
+
+http://stackoverflow.com/questions/10451728/transaction-handling-while-using-message-driven-channel-adapter-service-activa
+http://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html
+
+http://www.narendranaidu.com/2006/01/what-are-xa-transactions-what-is-xa.html
+<<<<<<< HEAD
+--------------------------------------------------------------------------------------------------
+#jms:message-driven-channel-adapter selector expression 
+http://forum.spring.io/forum/spring-projects/integration/115601-jms-message-driven-channel-adapter-selector-expression
+--------------------------------------------------------------------------------------------------
+#Enable Multithreading in JMS Message Driven Channel Adapter 
+http://forum.spring.io/forum/spring-projects/integration/128489-enable-multithreading-in-jms-message-driven-channel-adapter
+--------------------------------------------------------------------------------------------------
+#map jmspriority between jmsmessage and spring message
+https://jira.springsource.org/browse/INT-3259
+http://forum.spring.io/forum/spring-projects/integration/jms/741455-receive-and-pass-jmspriority-from-jmsmessage-with-defaultmessagelistenercontainer
+--------------------------------------------------------------------------------------------------
+=======
+
+https://jira.spring.io/browse/BATCH-1848
+>>>>>>> d02655980528377a01be98d6aecae6326f471182
