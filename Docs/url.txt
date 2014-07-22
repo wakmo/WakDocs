@@ -62,6 +62,16 @@ http://forum.spring.io/forum/spring-projects/integration/128489-enable-multithre
 https://jira.springsource.org/browse/INT-3259
 http://forum.spring.io/forum/spring-projects/integration/jms/741455-receive-and-pass-jmspriority-from-jmsmessage-with-defaultmessagelistenercontainer
 --------------------------------------------------------------------------------------------------
+
+#Handling problem in concurrent enviroment
+http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
+http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
+
+----------------------------------------------------------------------------------------------------
+
+#java8
+http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html
+
 =======
 
 https://jira.spring.io/browse/BATCH-1848
