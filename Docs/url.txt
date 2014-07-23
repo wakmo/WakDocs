@@ -64,13 +64,25 @@ http://forum.spring.io/forum/spring-projects/integration/jms/741455-receive-and-
 --------------------------------------------------------------------------------------------------
 
 #Handling problem in concurrent enviroment
+http://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
 http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
 http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
 
+---------------------------------------------------------------------------------------------------
+#Java7 features
+@undescores in literal
+http://docs.oracle.com/javase/7/docs/technotes/guides/language/underscores-literals.html
+@Diamond operation
+http://docs.oracle.com/javase/7/docs/technotes/guides/language/type-inference-generic-instance-creation.html
+@try with resources
+http://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
+
+
 ----------------------------------------------------------------------------------------------------
 
-#java8
+#java8 features
 http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html
+http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
 
 =======
 
