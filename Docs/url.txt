@@ -22,6 +22,10 @@ http://keepvid.com
 http://j2eearchitec.blogspot.co.uk/ 
 
 --------------------------------------------------------------------------------------------------
+#socket
+http://cs.lmu.edu/~ray/notes/javanetexamples/
+
+--------------------------------------------------------------------------------------------------
 #Spring
 https://github.com/spring-projects/spring-integration-samples
 https://github.com/spring-projects/spring-integration-samples.git
